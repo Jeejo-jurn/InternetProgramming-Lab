@@ -2,28 +2,34 @@
   {
     "id": "1",
     "name": "NZXT H510 Flow",
-    "image": "https://images.unsplash.com/photo-1587202372634-32705e3bf49c",
     "stock": 24,
+    "stock_text": "24 in stock",
     "category": "Mid Tower",
-    "branches": 5,
-    "status": "Active"
+    "location_count": 5,
+    "location_text": "5 stores",
+    "badge_status": "Active",
+    "image_url": "https://images.unsplash.com/photo-1587202372634-32705e3bf49c"
   },
   {
     "id": "2",
     "name": "Lian Li O11 Dynamic EVO",
-    "image": "https://images.unsplash.com/photo-1587202372775-e229f172b9d7",
     "stock": 8,
+    "stock_text": "8 in stock",
     "category": "Full Tower",
-    "branches": 3,
-    "status": "Low in stock"
+    "location_count": 3,
+    "location_text": "3 stores",
+    "badge_status": "Low in stock",
+    "image_url": "https://images.unsplash.com/photo-1587202372775-e229f172b9d7"
   },
   {
     "id": "3",
     "name": "Cooler Master NR200",
-    "image": "https://images.unsplash.com/photo-1591488320449-011701bb6704",
     "stock": 15,
+    "stock_text": "15 in stock",
     "category": "Mini-ITX",
-    "branches": 4,
-    "status": "Active"
+    "location_count": 4,
+    "location_text": "4 stores",
+    "badge_status": "Active",
+    "image_url": "https://images.unsplash.com/photo-1591488320449-011701bb6704"
   }
 ]
