@@ -1,28 +1,28 @@
 [
   {
     "id": "1",
-    "name": "T-Shirt White",
-    "image": "https://placehold.co/300x300/f5f5f5/333333.png?text=T-Shirt+White",
-    "stock": 50,
-    "category": "T-Shirt",
+    "name": "NZXT H510 Flow",
+    "image": "https://images.unsplash.com/photo-1587202372634-32705e3bf49c",
+    "stock": 24,
+    "category": "Mid Tower",
     "branches": 5,
     "status": "Active"
   },
   {
     "id": "2",
-    "name": "T-Shirt Black",
-    "image": "https://placehold.co/300x300/1a1a1a/ffffff.png?text=T-Shirt+Black",
+    "name": "Lian Li O11 Dynamic EVO",
+    "image": "https://images.unsplash.com/photo-1587202372775-e229f172b9d7",
     "stock": 8,
-    "category": "T-Shirt",
+    "category": "Full Tower",
     "branches": 3,
     "status": "Low in stock"
   },
   {
     "id": "3",
-    "name": "T-Shirt Kids Pink",
-    "image": "https://placehold.co/300x300/f8d9e4/c96b8c.png?text=Kids+Pink",
-    "stock": 20,
-    "category": "Kids",
+    "name": "Cooler Master NR200",
+    "image": "https://images.unsplash.com/photo-1591488320449-011701bb6704",
+    "stock": 15,
+    "category": "Mini-ITX",
     "branches": 4,
     "status": "Active"
   }
