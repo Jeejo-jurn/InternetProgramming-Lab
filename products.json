@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1",
+    "name": "T-Shirt White",
+    "image": "https://placehold.co/300x300/f5f5f5/333333.png?text=T-Shirt+White",
+    "stock": 50,
+    "category": "T-Shirt",
+    "branches": 5,
+    "status": "Active"
+  },
+  {
+    "id": "2",
+    "name": "T-Shirt Black",
+    "image": "https://placehold.co/300x300/1a1a1a/ffffff.png?text=T-Shirt+Black",
+    "stock": 8,
+    "category": "T-Shirt",
+    "branches": 3,
+    "status": "Low in stock"
+  },
+  {
+    "id": "3",
+    "name": "T-Shirt Kids Pink",
+    "image": "https://placehold.co/300x300/f8d9e4/c96b8c.png?text=Kids+Pink",
+    "stock": 20,
+    "category": "Kids",
+    "branches": 4,
+    "status": "Active"
+  }
+]
